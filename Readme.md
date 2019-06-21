@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to calculate TotalSummary using several GroupSummaries' values
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3222/)**
+<!-- run online end -->
 
 
 <p>This example shows how to get GroupSummaries' values that calculated automatically, and calculate custom Total summary using them.</p>
